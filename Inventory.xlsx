@@ -1,0 +1,8 @@
+| Item ID | Item Name           | Category     | Quantity | Unit Price (USD) | Location      | Last Updated | Status    |
+| ------- | ------------------- | ------------ | -------- | ---------------- | ------------- | ------------ | --------- |
+| INV001  | Whiteboard Markers  | Stationery   | 50       | 1.20             | Delhi Office  | 2025-05-01   | Available |
+| INV002  | Laptops             | IT Equipment | 10       | 750.00           | Mumbai Office | 2025-04-28   | Assigned  |
+| INV003  | Projector           | IT Equipment | 2        | 320.00           | Pune Office   | 2025-04-20   | In Use    |
+| INV004  | Office Chairs       | Furniture    | 25       | 45.00            | Delhi Office  | 2025-03-15   | Available |
+| INV005  | External Hard Drive | IT Equipment | 5        | 60.00            | Bangalore     | 2025-05-02   | In Stock  |
+
