@@ -1,0 +1,8 @@
+| Task ID | Task Name                   | Assigned To | Priority | Status      | Due Date   | Remarks                       |
+| ------- | --------------------------- | ----------- | -------- | ----------- | ---------- | ----------------------------- |
+| TSK001  | Update inventory sheet      | Rakesh      | High     | Completed   | 2025-05-02 | Data synced with new delivery |
+| TSK002  | Verify laptop allocation    | Priya       | Medium   | In Progress | 2025-05-05 | Awaiting IT confirmation      |
+| TSK003  | Procure new projectors      | Anil        | High     | Not Started | 2025-05-10 | Budget approval pending       |
+| TSK004  | Inventory audit - Delhi     | Sneha       | Medium   | Completed   | 2025-04-30 | No issues found               |
+| TSK005  | Update office furniture log | Meera       | Low      | Not Started | 2025-05-08 | Chair damage report pending   |
+
